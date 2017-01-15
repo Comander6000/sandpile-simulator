@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SandPile extends JFrame{
-	int grid = 5;
+	int grid = 3;
 	GridLayout layout = new GridLayout(grid,grid);
 	
 	public static void main(String[] args) {
