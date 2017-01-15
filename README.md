@@ -1,2 +1,1 @@
 # sandpile-simulator
-# sandpile-simulator
