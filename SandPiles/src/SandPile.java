@@ -4,6 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SandPile extends JFrame{
+	// edit grid to change number of rows and columns
 	int grid = 3;
 	GridLayout layout = new GridLayout(grid,grid);
 	
